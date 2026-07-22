@@ -1,7 +1,7 @@
 const EVENTS = [
     {
-        "title": "Imperial Cargo  ETS2  Convoy  To be determined  8  3",
-        "date": "2026-07-29T13:00:00",
+        "title": "Imperial Cargo  ETS2  Convoy",
+        "date": "2026-07-05T20:00:00",
         "server": "To be determined",
         "route": "Check TruckersMP Event",
         "banner": "",
