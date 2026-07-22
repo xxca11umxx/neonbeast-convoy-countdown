@@ -1,3 +1,5 @@
+console.log("events loaded:", EVENTS);
+
 let EVENT = null;
 
 
