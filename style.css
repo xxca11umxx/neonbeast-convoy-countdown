@@ -1,0 +1,50 @@
+<div class="background"></div>
+
+<div class="container">
+    <div class="card">
+
+        <img id="banner">
+
+        <div class="content">
+
+            <h4>UPCOMING CONVOY</h4>
+
+            <h1 id="title"></h1>
+
+            <div id="countdown">
+                <div class="box">
+                    <span id="days">0</span>
+                    <small>Days</small>
+                </div>
+
+                <div class="box">
+                    <span id="hours">0</span>
+                    <small>Hours</small>
+                </div>
+
+                <div class="box">
+                    <span id="minutes">0</span>
+                    <small>Minutes</small>
+                </div>
+
+                <div class="box">
+                    <span id="seconds">0</span>
+                    <small>Seconds</small>
+                </div>
+            </div>
+
+
+            <div class="details">
+                <p><b>Server:</b> <span id="server"></span></p>
+                <p><b>Route:</b> <span id="route"></span></p>
+            </div>
+
+
+            <a id="eventButton" target="_blank">
+                View TruckersMP Event
+            </a>
+
+        </div>
+
+    </div>
+</div>
